@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @YagoDaw
-- 👀 I’m interested in learn to program 
 - I like to learn and apply what I know in my projects
 - 
