@@ -31,6 +31,12 @@ Actualmente me enfoco en:
 *   **Documentación Técnica Rigurosa:** Mantenimiento exhaustivo de especificaciones mediante arquitecturas documentales (`README.md`, `CONTRIBUTING.md`, `CHANGELOG.md`, `ROADMAP.md`).
 
 ---
+## 🛠️ Stack Tecnológico
+*   **Languages & Core:** Python, HTML5 semántico, CSS3 nativo (Variables, Grid, Flexbox), JavaScript (Vanilla ES6+).
+*   **Herramientas & Entornos:** Git, Shell Scripting (Linux), PowerShell (Windows CLI), entornos virtuales (`venv`).
+*   **Formatos de Intercambio & Marcado:** JSON, Markdown, diagramación vectorial estructurada (.drawio).
+
+---
 Mi filosofía es simple:
 
 > Aprender, crear y repetir.
