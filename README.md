@@ -23,7 +23,14 @@ Actualmente me enfoco en:
 * ⚙️ Automatización de procesos
 * 🖥️ Infraestructura y sistemas
 * 📚 Aprendizaje continuo
+---
+## 🎯 Objetivos de Ingeniería & Áreas de Enfoque
+*   **Programación Avanzada:** Construcción de arquitecturas modulares, reutilizables y altamente mantenibles empleando buenas prácticas de clean code.
+*   **Automatización e Infraestructura:** Desarrollo de scripts robustos de scraping, procesamiento asíncrono y flujos de empaquetamiento sobre plataformas Linux y entornos Windows con PowerShell.
+*   **Ciberseguridad & Redes:** Implementación de auditorías de red, hardening de servidores domésticos, administración de bases de datos relacionales y flujos seguros de API integration.
+*   **Documentación Técnica Rigurosa:** Mantenimiento exhaustivo de especificaciones mediante arquitecturas documentales (`README.md`, `CONTRIBUTING.md`, `CHANGELOG.md`, `ROADMAP.md`).
 
+---
 Mi filosofía es simple:
 
 > Aprender, crear y repetir.
